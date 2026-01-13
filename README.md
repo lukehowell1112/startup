@@ -25,7 +25,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Don't you just love having the ability to have numerous streams of media all at the access of your hands through subscriptions, however may feel the overbearing weight of not knowing how much it is all costs? Or wonder if you are still paying for a subscription that you stopped using months or years ago? The Subscription Tracker appliaction makes it vary easy to track your subscription expenses and organize them all into one place. Allowing you to centralize subscription tracking, calculate true monthly costs, while also sending reminders for trials and renewals. This easily converts a blind spot in finances to a simple instrument board.
 
 ### Design
 
