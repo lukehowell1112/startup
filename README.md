@@ -42,20 +42,24 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Login using HTTPS
+- Ability to edit, add to, or remove from the subscription dashboard
+- Display the dashboard
+- Calculate teh monthly expenses
+- Notifications about what subscriptions are upcoming
+- Abiity to input a free trial
+- Ability to sort by category
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - This will help give structure. 5 pages of html: the dashboard, editing the dashboard, adding a subscription, deleting a subscription, editing a subscription
+- **CSS** - Used in the overall look of the interface. Different uses of color and whitespace, to make the application look appealing. It will also be used in sizing the diffrent interactive features of the application.
+- **React** - Used to allow the user to input edits, login, choose an edit, add a subscription and its corresponding information, delete a subscription, navigate back to the dashboard, and make edits to a subscription.
+- **Service** - Included endpoints are: login, the dashboard, choosing an edit, retrieving information for a new subscription, deleting a subscription, and editing a subscription
+- **DB/Login** - Stores the user with subscriptions and its corresponding information. Registers the user and saves the data in the database.
+- **WebSocket** - The data will be displayed back to the user in the dashboard with its corresponding elements, and included in the calculation for monthly expenses.
 
 ## 🚀 AWS deliverable
 
